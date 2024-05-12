@@ -9,3 +9,5 @@ The goal is to create a robust system that can seamlessly accommodate new resour
 Your solution should not violate other SOLID principles.
 
 # UML
+
+![Blank diagram (11)](https://github.com/ChrisCayabyab/SolidPrinciple/assets/142383617/cf9b862f-b2ed-4449-ad82-445e7db3a40d)
