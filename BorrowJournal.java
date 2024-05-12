@@ -5,8 +5,8 @@ public class BorrowJournal implements BorrowResource{
         System.out.println("----------------------------------------------------------" + 
         "\n-Borrowed Resources-" +
         "\n\nStudent: " + student.getStudName() + 
-        "\nStudent ID :" + student.getStudentId() +
-        "\nResourceID : " + resourceDescription.getResourceID() +
+        "\nStudent ID: " + student.getStudentId() +
+        "\nResourceID: " + resourceDescription.getResourceID() +
         "\ntitle: " + resourceDescription.getTitle() +
         "\nAuthor: " + resourceDescription.getAuthor() +
         "\nResource: " + resourceDescription.getType());        
