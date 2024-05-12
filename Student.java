@@ -2,15 +2,15 @@ public class Student {
     private String studId;
     private String studName;
 
-    public Student(String studentId, String studName) {
-        this.studId = studentId;
+    public Student(String studId, String studName) {
+        this.studId = studId;
         this.studName = studName;
     }
 
-    public String getStudentId() {
+    public String getStudId() {
         return studId;
     }
-    public void setStudentId(String studentId) {
+    public void setStudId(String studentId) {
         this.studId = studentId;
     }
     public String getStudName() {
