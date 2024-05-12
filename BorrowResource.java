@@ -1,3 +1,3 @@
 public interface BorrowResource {
-    void borrowResource(Student student, ResourceDescription resourceDescription);
+    public void borrowResource(Student student, ResourceDescription resourceDescription);
 }
